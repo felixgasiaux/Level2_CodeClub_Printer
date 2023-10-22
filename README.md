@@ -12,3 +12,8 @@ I installed a light strip on top so that I can actually see what I am doing. The
 In the plugin, add a simple output with Neopixels direct on the gpio pin 21, with 15 neopixels.
 The setting autostart with server is toggled on. 
 After that simply wire the 5V and Gnd wires to their respectives pins and the datawire to pin 21 and you should be good to go.
+
+
+
+
+For remote access I also installed Tailscaile using the CLI, if you are reading this, it probably means that the Pi is broken anyway, but in case it isn't and you also want remote access, feel free to ask me and I'il share the node with you :). 
